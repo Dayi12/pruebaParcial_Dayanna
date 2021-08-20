@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942018561795",
+    "project_id": "pruebaparcial-c55dc",
+    "storage_bucket": "pruebaparcial-c55dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942018561795:android:acdc5653ff327163b28b36",
+        "android_client_info": {
+          "package_name": "com.example.pruebaparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942018561795-q9kq24ae36konf920q1fnepkqhlauk6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCps0KHwLyvDYUkjktXpk2iRvLvyZ56TIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942018561795-q9kq24ae36konf920q1fnepkqhlauk6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
